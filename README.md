@@ -1,2 +1,4 @@
 # Assignment
-Assignment operation in JS 
+
+var a = 6;
+let b = "Foo";
